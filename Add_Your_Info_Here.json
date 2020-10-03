@@ -63,6 +63,14 @@
  "instagramUsername":"pol_nischal_pol",
  "facebookUsername":"codekavya"
  },
+  {
+ "name": "Ekraj Ghimire",
+ "address":"Butwal",
+ "skills":["Flutter","Web Development","Python"],
+ "githubUsername":"ManishGhimire127",
+ "instagramUsername":"manishg_official",
+ "facebookUsername":"manishg.official127"
+},
  
 
 ]
