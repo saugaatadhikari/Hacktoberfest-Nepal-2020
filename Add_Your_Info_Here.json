@@ -16,14 +16,6 @@
  "facebookUsername":"reasonworld123"
 },
  {
- "name": "Sandesh Sharma",
- "address":"Pokhara",
- "skills":["Flutter","NodeJS","Kotlin"],
- "githubUsername":"Sandesh-Sharma",
- "instagramUsername":"thesanshar",
- "facebookUsername":"thesandeshsharma"
-},
- {
  "name": "Bikram Parajuli",
  "address":"Pokhara",
  "skills":["Flutter","NodeJS","Python"],
@@ -40,12 +32,37 @@
  "facebookUsername":"Shankar Kharel"
 },
  {
+ "name": "Shishir Devkota",
+ "address":"Pokhara",
+ "skills":["C language basic"],
+ "githubUsername":"SHI-SHIR",
+ "instagramUsername":"codekavya",
+ "facebookUsername":"codekavya"
+},
+ {
+"name": "Agni Pradhan",
+ "address":"Pokhara",
+ "skills":["Flutter","Java","Python","Linux"],
+ "githubUsername":"agnipradhan",
+ "instagramUsername":"codekavya",
+ "facebookUsername":"agni.pradhan.3"
+ },
+  {
+ "name": "Bigyan Timilsina",
+ "address":"Pokhara",
+ "skills":["Flutter","Graphics design","Python"],
+ "githubUsername":"bigyanic",
+ "instagramUsername":"the.bigyan.timilsina",
+ "facebookUsername":"bigyanic"
+},
+  {
  "name": "Nischal Poudel",
  "address":"Pokhara",
- "skills":[""],
+ "skills":["Acquiring Skills"],
  "githubUsername":"whatever-thisis",
  "instagramUsername":"pol_nischal_pol",
- "facebookUsername":"Nischal Poudel"
-},
+ "facebookUsername":"codekavya"
+ },
  
+
 ]
