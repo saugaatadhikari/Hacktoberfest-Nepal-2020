@@ -1,5 +1,4 @@
-[
- 
+[ 
 {
 "name": "Saugat Adhikari",
 "address": "Pokhara",
@@ -30,5 +29,13 @@
  "githubUsername":"ParajuliBkrm",
  "instagramUsername":"Parajuli.Bkrm",
  "facebookUsername":"ParajuliBkrm"
+},
+ ,
+ {
+ "name": "Nabin Bhandari",
+ "address":"Dang",
+ "skills":["JavaScript","NodeJS","Html/css"],
+ "githubUsername":"Nabiin",
+ "facebookUsername":"nabin.bhandari.3910"
 },
 ]
