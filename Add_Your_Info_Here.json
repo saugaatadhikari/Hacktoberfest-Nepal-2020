@@ -31,4 +31,12 @@
  "instagramUsername":"Parajuli.Bkrm",
  "facebookUsername":"ParajuliBkrm"
 },
+ {
+ "name": "Bigyan Rijal",
+ "address":"Baglung",
+ "skills":["Java","Designing","Python"],
+ "githubUsername":"theoptimist76",
+ "instagramUsername":"bigyan_njr10",
+ "facebookUsername":"NeymarJunior11s"
+},
 ]
