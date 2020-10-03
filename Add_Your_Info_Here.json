@@ -31,4 +31,12 @@
  "instagramUsername":"Parajuli.Bkrm",
  "facebookUsername":"ParajuliBkrm"
 },
+ {
+ "name": "Mandeep Thapa",
+ "address":"Pokhara",
+ "skills":["Flutter","NodeJS","Python"],
+ "githubUsername":"imandeep",
+ "instagramUsername":"mandeeped",
+ "facebookUsername":"Mandeep Thapa"
+},
 ]
