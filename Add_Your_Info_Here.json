@@ -31,4 +31,12 @@
  "instagramUsername":"Parajuli.Bkrm",
  "facebookUsername":"ParajuliBkrm"
 },
+{
+ "name": "Rojen Maharjan",
+ "address":"Kathmandu",
+ "skills":["JavaScript","Python","ReactJS", "django"],
+ "githubUsername":"rojen11",
+ "instagramUsername":"",
+ "facebookUsername":""
+},
 ]
