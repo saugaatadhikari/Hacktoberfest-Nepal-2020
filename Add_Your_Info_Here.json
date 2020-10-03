@@ -14,5 +14,13 @@
  "githubUsername":"arjunadhikary",
  "instagramUsername":"arjun_adhikary",
  "facebookUsername":"reasonworld123"
-}
+},
+ {
+ "name": "Sandesh Sharma",
+ "address":"Pokhara",
+ "skills":["Flutter","NodeJS","Kotlin"],
+ "githubUsername":"Sandesh-Sharma",
+ "instagramUsername":"thesanshar",
+ "facebookUsername":"thesandeshsharma"
+},
 ]
