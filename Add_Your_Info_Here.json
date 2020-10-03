@@ -7,8 +7,12 @@
 "githubUsername": "saugat-adhikari",
 "instagramUsername": "saugaat_adhikari",
 "facebookUsername": "saugat0"
-
-
+},{
+ "name":"Arjun Adhikari",
+ "address":"Butwal",
+ "skills":["Java","NodeJS","Kotlin"],
+ "githubUsername":"arjunadhikary",
+ "instagramUsername":"arjun_adhikary",
+ "facebookUsername":"reasonworld123"
 }
-
 ]
