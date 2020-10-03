@@ -39,5 +39,13 @@
  "instagramUsername":"shankarkharel35",
  "facebookUsername":"Shankar Kharel"
 },
+  {
+ "name": "Nikish Subedi",
+ "address":"Kathmandu",
+ "skills":["Illustrator","Lightroom","C"],
+ "githubUsername":"nikishsubedi",
+ "instagramUsername":"nik.ish",
+ "facebookUsername":"subedinikish"
+},
  
 ]
