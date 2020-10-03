@@ -31,4 +31,13 @@
  "instagramUsername":"Parajuli.Bkrm",
  "facebookUsername":"ParajuliBkrm"
 },
+ {
+ "name": "Shankar Kharel",
+ "address":"Butwal",
+ "skills":["Flutter","Java","Python"],
+ "githubUsername":"shankarkharel",
+ "instagramUsername":"shankarkharel35",
+ "facebookUsername":"Shankar Kharel"
+},
+ 
 ]
