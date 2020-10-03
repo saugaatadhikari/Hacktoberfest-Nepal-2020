@@ -31,4 +31,14 @@
  "instagramUsername":"Parajuli.Bkrm",
  "facebookUsername":"ParajuliBkrm"
 },
+ 
+ {
+ "name": "Ashish khatri",
+ "address":"Butwal",
+ "skills":["front-end basics"],
+ "githubUsername":"Ash-ishkhatri",
+ "instagramUsername":"asshisshkhatri15",
+ "facebookUsername":"Ash-ish khatri"
+} 
+ 
 ]
