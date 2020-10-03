@@ -71,6 +71,13 @@
  "instagramUsername":"manishg_official",
  "facebookUsername":"manishg.official127"
 },
- 
+  {
+ "name": "Sheershak Raj Gautam",
+ "address":"Itahari",
+ "skills":["Android:Java","ASP.NET","C#","SQLSERVER"],
+ "githubUsername":"sheershakx",
+ "instagramUsername":"sheershakrg",
+ "facebookUsername":"sheershakx"
+},
 
 ]
