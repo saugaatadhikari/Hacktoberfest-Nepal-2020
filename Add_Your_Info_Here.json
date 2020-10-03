@@ -31,4 +31,13 @@
  "instagramUsername":"Parajuli.Bkrm",
  "facebookUsername":"ParajuliBkrm"
 },
+ {
+  "name":"Saugat Rajbhandari",
+  "address":"Pokhara",
+  "skills":["python", "django", "html", "css", "javascript"],
+  "githubuUsername":"saugat55555",
+  "instagramUsername":"SaugatShrestha", 
+  "facebookUsername":"Saugat Rajbhandari"
+ }
+  
 ]
