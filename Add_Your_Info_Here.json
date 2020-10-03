@@ -23,4 +23,12 @@
  "instagramUsername":"thesanshar",
  "facebookUsername":"thesandeshsharma"
 },
+ {
+ "name": "Bikram Parajuli",
+ "address":"Pokhara",
+ "skills":["Flutter","NodeJS","Python"],
+ "githubUsername":"ParajuliBkrm",
+ "instagramUsername":"Parajuli.Bkrm",
+ "facebookUsername":"ParajuliBkrm"
+},
 ]
