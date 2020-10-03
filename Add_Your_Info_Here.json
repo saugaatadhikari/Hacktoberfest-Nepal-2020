@@ -39,5 +39,12 @@
  "instagramUsername":"shankarkharel35",
  "facebookUsername":"Shankar Kharel"
 },
- 
+{
+ "name": "Bigyan Timilsina",
+ "address":"Pokhara",
+ "skills":["Flutter","Graphics design","Python"],
+ "githubUsername":"bigyanic",
+ "instagramUsername":"the.bigyan.timilsina",
+ "facebookUsername":"bigyanic"
+},   
 ]
