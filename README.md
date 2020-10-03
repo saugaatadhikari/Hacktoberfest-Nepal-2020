@@ -95,3 +95,9 @@ So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop
 # 👍 This is Awesome! How Can I Contribute?
 
 It's very easy. You don't need to be an expert in coding and programming. Here are the steps you need to follow to create your -(maybe)- EXAMPLE first pull request within few minutes.
+1) First open reposorities and go to the reposority you want to edit.
+2) Click on edit option and edit it.
+3) After editing Click propose changes.
+4) Click on create pull requests.
+5) After that if you want to write some description you can writeand again click on create pull requests.
+6) And You  have done successfully a pull request.
