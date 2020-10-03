@@ -73,7 +73,7 @@ It's very easy. You don't need to be an expert in coding and programming. Here a
 
 ## 🔥 What will happen after my contribution?
 
-I have created a simple page to display all contributors list [here](https://hactoberfestnepal.netlify), your name should appear shortly after the pull request is merged.
+I have created a simple page to display all contributors list [here](https://hactoberfestnepal.netlify.app), your name should appear shortly after the pull request is merged.
 If you have participated in Hacktoberfest Meetup Nepal and created successful pull request in all the repositories mentioned below, you'll be eligible to win a free hosting acount from our sponsor.
 
 ---
@@ -82,7 +82,7 @@ If you have participated in Hacktoberfest Meetup Nepal and created successful pu
 
 - [Hacktoberfest-Simple-Practice-Programmes](https://github.com/bigyanic/Hacktoberfest-Simple-Practice-Programmes)
 - [the_poetry_forum](https://github.com/Sandesh-Sharma/the_poetry_forum)
-- [Hacktoberfes](https://github.com/arjunadhikary/Hacktoberfest)
+- [Hacktoberfest](https://github.com/arjunadhikary/Hacktoberfest)
 - [Hacktoberfest-Nepal](https://github.com/Parajulibkrm/Hacktoberfest-Nepal)
 
 So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop. On plus side, you will get into beautiful world of open source and get the international exposure.  
