@@ -39,5 +39,13 @@
  "instagramUsername":"codekavya",
  "facebookUsername":"codekavya"
 },
+ {
+"name": "Agni Pradhan",
+ "address":"Pokhara",
+ "skills":["Flutter","Java","Python","Linux"],
+ "githubUsername":"agnipradhan",
+ "instagramUsername":"codekavya",
+ "facebookUsername":"agni.pradhan.3"
+ },
  
 ]
