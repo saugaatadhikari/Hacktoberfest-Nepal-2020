@@ -31,4 +31,12 @@
  "instagramUsername":"Parajuli.Bkrm",
  "facebookUsername":"ParajuliBkrm"
 },
+{
+ "name": "Saurav Sunar",
+ "address":"Pokhara",
+ "skills":["PHP","Javascript","Python"],
+ "githubUsername":"SauRajboy",
+ "instagramUsername":"Saurav",
+ "facebookUsername":"rajesh.sunar.7503"
+},
 ]
