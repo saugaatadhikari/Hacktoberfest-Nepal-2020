@@ -31,4 +31,13 @@
  "instagramUsername":"Parajuli.Bkrm",
  "facebookUsername":"ParajuliBkrm"
 },
+ {
+ "name": "Kunal Sah",
+ "address":"Biratnagar",
+ "skills":["Digital Marketing","HTML","CSS"],
+ "githubUsername":"Kunalsah29",
+ "instagramUsername":"Kunalsah29",
+ "facebookUsername":"DigitalKunalSah"
+},
+
 ]
