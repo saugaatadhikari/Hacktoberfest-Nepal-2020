@@ -47,5 +47,14 @@
  "instagramUsername":"codekavya",
  "facebookUsername":"agni.pradhan.3"
  },
+  {
+ "name": "Bigyan Timilsina",
+ "address":"Pokhara",
+ "skills":["Flutter","Graphics design","Python"],
+ "githubUsername":"bigyanic",
+ "instagramUsername":"the.bigyan.timilsina",
+ "facebookUsername":"bigyanic"
+},
  
+
 ]
