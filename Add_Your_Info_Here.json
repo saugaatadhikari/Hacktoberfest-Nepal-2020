@@ -71,6 +71,14 @@
  "instagramUsername":"manishg_official",
  "facebookUsername":"manishg.official127"
 },
+ {
+ "name": "Karuna Shrestha",
+ "address":"Bhaktapur",
+ "skills":["Linux","Python","R","Web Design"],
+ "githubUsername":"karxth",
+ "instagramUsername":"_karxth_",
+ "facebookUsername":"kar.xth"
+},
  
 
 ]
