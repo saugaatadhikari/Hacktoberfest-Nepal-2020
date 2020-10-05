@@ -1,5 +1,4 @@
-[
- 
+[ 
 {
 "name": "Saugat Adhikari",
 "address": "Pokhara",
@@ -7,21 +6,14 @@
 "githubUsername": "saugat-adhikari",
 "instagramUsername": "saugaat_adhikari",
 "facebookUsername": "saugat0"
-},{
+},
+  {
  "name":"Arjun Adhikari",
  "address":"Butwal",
  "skills":["Java","NodeJS","Kotlin"],
  "githubUsername":"arjunadhikary",
  "instagramUsername":"arjun_adhikary",
  "facebookUsername":"reasonworld123"
-},
- {
- "name": "Sandesh Sharma",
- "address":"Pokhara",
- "skills":["Flutter","NodeJS","Kotlin"],
- "githubUsername":"Sandesh-Sharma",
- "instagramUsername":"thesanshar",
- "facebookUsername":"thesandeshsharma"
 },
  {
  "name": "Bikram Parajuli",
@@ -31,12 +23,108 @@
  "instagramUsername":"Parajuli.Bkrm",
  "facebookUsername":"ParajuliBkrm"
 },
-{
+ {
+ "name": "Shankar Kharel",
+ "address":"Butwal",
+ "skills":["Flutter","Java","Python"],
+ "githubUsername":"shankarkharel",
+ "instagramUsername":"shankarkharel35",
+ "facebookUsername":"Shankar Kharel"
+},
+ {
+ "name": "Shishir Devkota",
+ "address":"Pokhara",
+ "skills":["C language basic"],
+ "githubUsername":"SHI-SHIR",
+ "instagramUsername":"codekavya",
+ "facebookUsername":"codekavya"
+},
+ {
+"name": "Agni Pradhan",
+ "address":"Pokhara",
+ "skills":["Flutter","Java","Python","Linux"],
+ "githubUsername":"agnipradhan",
+ "instagramUsername":"codekavya",
+ "facebookUsername":"agni.pradhan.3"
+ },
+  {
+ "name": "Bigyan Timilsina",
+ "address":"Pokhara",
+ "skills":["Flutter","Graphics design","Python"],
+ "githubUsername":"bigyanic",
+ "instagramUsername":"the.bigyan.timilsina",
+ "facebookUsername":"bigyanic"
+},
+  {
+ "name": "Nischal Poudel",
+ "address":"Pokhara",
+ "skills":["Acquiring Skills"],
+ "githubUsername":"whatever-thisis",
+ "instagramUsername":"pol_nischal_pol",
+ "facebookUsername":"codekavya"
+ },
+  {
+ "name": "Ekraj Ghimire",
+ "address":"Butwal",
+ "skills":["Flutter","Web Development","Python"],
+ "githubUsername":"ManishGhimire127",
+ "instagramUsername":"manishg_official",
+ "facebookUsername":"manishg.official127"
+},
+  {
+  "name":"Saugat Rajbhandari",
+  "address":"Pokhara",
+  "skills":["python", "django", "html", "css", "javascript"],
+  "githubuUsername":"saugat55555",
+  "instagramUsername":"SaugatShrestha", 
+  "facebookUsername":"codekavya"
+ },
+ {
+ "name": "Sandip Sapkota",
+ "address":"Dang",
+ "skills":["Basic C"],
+ "githubUsername":"SandipSapkota9844",
+ "instagramUsername":"Sandip__Sapkota",
+ "facebookUsername":"codekavya"
+},
+ {
+ "name": "Mandeep Thapa",
+ "address":"Pokhara",
+ "skills":["nothing"],
+ "githubUsername":"imandeep",
+ "instagramUsername":"mandeeped",
+ "facebookUsername":"codekavya"
+ },
+   {
+ "name": "Bibek Bhusal",
+ "address":"Butwal",
+ "skills":["Android Developer","Web Developer","Content Writer"],
+ "githubUsername":"Bibker",
+ "instagramUsername":"codekavya",
+ "facebookUsername":"bibek.bhusal.14"
+},
+ {
+ "name": "Nabin Bhandari",
+ "address":"Dang",
+ "skills":["JavaScript","NodeJS","Html/CSS"],
+ "githubUsername":"Nabiin",
+ "instagramUsername":"codekavya",
+ "facebookUsername":"nabin.bhandari.3910"
+ },
+ {
+ "name": "Bigyan Rijal",
+ "address":"Baglung",
+ "skills":["Java","Designing","Python"],
+ "githubUsername":"theoptimist76",
+ "instagramUsername":"bigyan_njr10",
+ "facebookUsername":"NeymarJunior11s"
+},
+ {
  "name": "Rojen Maharjan",
  "address":"Kathmandu",
  "skills":["JavaScript","Python","ReactJS", "django"],
  "githubUsername":"rojen11",
- "instagramUsername":"",
- "facebookUsername":""
-},
+ "instagramUsername":"codekavya",
+ "facebookUsername":"codekavya"
+ },
 ]
