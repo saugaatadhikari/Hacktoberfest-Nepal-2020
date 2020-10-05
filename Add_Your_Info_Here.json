@@ -39,6 +39,14 @@
  "instagramUsername":"the.bigyan.timilsina",
  "facebookUsername":"bigyanic"
 },
+   {
+ "name": "Shankar Kharel",
+ "address":"Butwal",
+ "skills":["Flutter","Java","Python"],
+ "githubUsername":"shankarkharel",
+ "instagramUsername":"shankarkharel35",
+ "facebookUsername":"Shankar Kharel"
+},
  {
 "name": "Agni Pradhan",
  "address":"Pokhara",
