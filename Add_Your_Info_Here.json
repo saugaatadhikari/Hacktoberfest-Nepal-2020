@@ -167,4 +167,12 @@
  "instagramUsername":"codekavya",
  "facebookUsername":"codekavya"
 },
+ {
+ "name": "Ashim Gautam",
+ "address":"Pokhara",
+ "skills":["Learning currently"],
+ "githubUsername":"ASH-EEM",
+ "instagramUsername":"codekavya",
+ "facebookUsername":"codekavya"
+},
 ]
