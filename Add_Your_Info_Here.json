@@ -271,5 +271,14 @@
  "instagramUsername":"__aaku",
  "facebookUsername":"codekavya"
  },
+  {
+"name": "Nishant Sapkota",
+ "address":"Damak",
+ "skills":["HTML5","CSS3","JS","Python","C++"],
+ "githubUsername":"thenishantsapkota",
+ "instagramUsername":"thenishantsapkota",
+ "facebookUsername":"thenishantsapkota"
+ },
 ]
+
 
