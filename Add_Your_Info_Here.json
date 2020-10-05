@@ -63,7 +63,7 @@
  "instagramUsername":"manishg_official",
  "facebookUsername":"manishg.official127"
 },
- {
+  {
   "name":"Saugat Rajbhandari",
   "address":"Pokhara",
   "skills":["python", "django", "html", "css", "javascript"],
@@ -231,5 +231,14 @@
  "instagramUsername":"__ankiteyyy__",
  "facebookUsername":"ankit.adhikari.3572"
  },
+ {
+ "name": "Karuna Shrestha",
+ "address":"Bhaktapur",
+ "skills":["Linux","Python","R","Web Design"],
+ "githubUsername":"karxth",
+ "instagramUsername":"_karxth_",
+ "facebookUsername":"kar.xth"
+},
+ 
 ]
 
