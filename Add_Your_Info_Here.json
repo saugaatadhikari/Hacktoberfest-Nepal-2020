@@ -24,15 +24,7 @@
  "instagramUsername":"Parajuli.Bkrm",
  "facebookUsername":"ParajuliBkrm"
 },
-   {
- "name": "Bibek Bhusal",
- "address":"Butwal",
- "skills":["Android Developer","Web Developer","Content Writer"],
- "githubUsername":"Bibker",
- "instagramUsername":null,
- "facebookUsername":"bibek.bhusal.14"
-},
-  {
+ {
  "name": "Shankar Kharel",
  "address":"Butwal",
  "skills":["Flutter","Java","Python"],
@@ -87,5 +79,29 @@
   "githubuUsername":"saugat55555",
   "instagramUsername":"SaugatShrestha", 
   "facebookUsername":"codekavya"
- }
+ },
+ {
+ "name": "Sandip Sapkota",
+ "address":"Dang",
+ "skills":["Basic C"],
+ "githubUsername":"SandipSapkota9844",
+ "instagramUsername":"Sandip__Sapkota",
+ "facebookUsername":"codekavya"
+},
+ {
+ "name": "Mandeep Thapa",
+ "address":"Pokhara",
+ "skills":["nothing"],
+ "githubUsername":"imandeep",
+ "instagramUsername":"mandeeped",
+ "facebookUsername":"codekavya"
+ },
+   {
+ "name": "Bibek Bhusal",
+ "address":"Butwal",
+ "skills":["Android Developer","Web Developer","Content Writer"],
+ "githubUsername":"Bibker",
+ "instagramUsername":"codekavya",
+ "facebookUsername":"bibek.bhusal.14"
+},
 ]
