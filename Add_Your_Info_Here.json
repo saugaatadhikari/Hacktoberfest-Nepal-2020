@@ -71,7 +71,7 @@
   "instagramUsername":"SaugatShrestha", 
   "facebookUsername":"codekavya"
  },
- {
+  {
  "name": "Sandip Sapkota",
  "address":"Dang",
  "skills":["Basic C"],
@@ -79,7 +79,7 @@
  "instagramUsername":"Sandip__Sapkota",
  "facebookUsername":"codekavya"
 },
- {
+  {
  "name": "Bibek Bhusal",
  "address":"Butwal",
  "skills":["Android Developer","Web Developer","Content Writer"],
@@ -202,10 +202,58 @@
  {
  "name": "innatepanda",
  "address":"India",
- "skills":["Java],
+ "skills":["Java"],
  "githubUsername":"innatepanda",
  "instagramUsername":"theravencry",
  "facebookUsername":"codekavya"
+ },
+ {
+ "name": "Sheershak Raj Gautam",
+ "address":"Itahari",
+ "skills":["Android:Java","ASP.NET","C#","SQLSERVER"],
+ "githubUsername":"sheershakx",
+ "instagramUsername":"sheershakrg",
+ "facebookUsername":"sheershakx"
+},
+{
+ "name":"Maheshwor Acharya",
+ "address":"Pokhara",
+ "skills":["Python"],
+ "githubUsername":"Mrmyak",
+ "instagramUsername":"acharyaaa",
+ "facebookUsername":"maheshwor.acharya.73"
+},
+ {
+ "name": "Ankit Adhikari",
+ "address":"Chitwan",
+ "skills":["Unity","Web Development","Java"],
+ "githubUsername":"anky19",
+ "instagramUsername":"__ankiteyyy__",
+ "facebookUsername":"ankit.adhikari.3572"
+ },
+ {
+ "name": "Karuna Shrestha",
+ "address":"Bhaktapur",
+ "skills":["Linux","Python","R","Web Design"],
+ "githubUsername":"karxth",
+ "instagramUsername":"_karxth_",
+ "facebookUsername":"kar.xth"
+},
+  {
+ "name": "Subas Poudel ",
+ "address":"Pokhara ",
+ "skills":["Flutter","Web Development","Python","php"],
+ "githubUsername":"poudel231",
+ "instagramUsername":"subaspoudel",
+ "facebookUsername":"subaspoudel"
+},
+  {
+"name": "Rabina Shrestha",
+"address": "Bhaktapur",
+"skills": ["Web development","Java", "Python","HTML","CSS"],
+"githubUsername": "rabina48",
+"instagramUsername": "rabinash",
+"facebookUsername": "rabinashrestha"
  },
   {
  "name": "Akrity Pant",
@@ -213,8 +261,7 @@
  "skills":["HTML5","CSS3","JS"],
  "githubUsername":"Aacrity",
  "instagramUsername":"__aaku",
- "facebookUsername":"null"
+ "facebookUsername":"codekavya"
  },
- 
 ]
 
