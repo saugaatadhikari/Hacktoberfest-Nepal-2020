@@ -127,4 +127,12 @@
  "instagramUsername":"codekavya",
  "facebookUsername":"codekavya"
  },
+  {
+ "name": "Dhurba Baral",
+ "address":"Pokhara",
+ "skills":["NodeJS","Python"],
+ "githubUsername":"DhurbaBrl",
+ "instagramUsername":"dhurba_baral",
+ "facebookUsername":"dhurbaBaral2"
+},
 ]
