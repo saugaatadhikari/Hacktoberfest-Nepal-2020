@@ -135,4 +135,12 @@
  "instagramUsername":"dhurba_baral",
  "facebookUsername":"dhurbaBaral2"
 },
+ {
+ "name": "Ashish khatri",
+ "address":"Butwal",
+ "skills":["front-end basics"],
+ "githubUsername":"Ash-ishkhatri",
+ "instagramUsername":"asshisshkhatri15",
+ "facebookUsername":"codekavya"
+},
 ]
