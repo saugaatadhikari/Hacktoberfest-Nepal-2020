@@ -23,6 +23,14 @@
  "instagramUsername":"Parajuli.Bkrm",
  "facebookUsername":"ParajuliBkrm"
 },
+{
+ "name": "Saurav Sunar",
+ "address":"Pokhara",
+ "skills":["PHP","Javascript","Python"],
+ "githubUsername":"SauRajboy",
+ "instagramUsername":"Saurav",
+ "facebookUsername":"rajesh.sunar.7503"
+},
  {
  "name": "Shankar Kharel",
  "address":"Butwal",
@@ -150,5 +158,13 @@
  "githubUsername":"Kunalsah29",
  "instagramUsername":"Kunalsah29",
  "facebookUsername":"DigitalKunalSah"
+},
+ {
+ "name": "Saurav Sunar",
+ "address":"Pokhara",
+ "skills":["PHP","Javascript","Python"],
+ "githubUsername":"SauRajboy",
+ "instagramUsername":"Saurav",
+ "facebookUsername":"rajesh.sunar.7503"
 },
 ]
