@@ -15,13 +15,21 @@
  "instagramUsername":"arjun_adhikary",
  "facebookUsername":"reasonworld123"
 },
- {
+  {
  "name": "Bikram Parajuli",
  "address":"Pokhara",
  "skills":["Flutter","NodeJS","Python"],
  "githubUsername":"ParajuliBkrm",
  "instagramUsername":"Parajuli.Bkrm",
  "facebookUsername":"ParajuliBkrm"
+},
+ {
+ "name": "Sandesh Sharma",
+ "address":"Pokhara",
+ "skills":["Flutter","NodeJS","Kotlin"],
+ "githubUsername":"Sandesh-Sharma",
+ "instagramUsername":"thesanshar",
+ "facebookUsername":"thesandeshsharma"
 },
 {
  "name": "Saurav Sunar",
@@ -166,5 +174,13 @@
  "githubUsername":"SauRajboy",
  "instagramUsername":"Saurav",
  "facebookUsername":"rajesh.sunar.7503"
+},
+ {
+ "name": "Shishir Devkota",
+ "address":"Pokhara",
+ "skills":["Flutter","NodeJS"],
+ "githubUsername":"SHI-SHIR",
+ "instagramUsername":"codekavya",
+ "facebookUsername":"codekavya"
 },
 ]
