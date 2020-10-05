@@ -111,4 +111,12 @@
  "instagramUsername":"codekavya",
  "facebookUsername":"nabin.bhandari.3910"
  },
+ {
+ "name": "Bigyan Rijal",
+ "address":"Baglung",
+ "skills":["Java","Designing","Python"],
+ "githubUsername":"theoptimist76",
+ "instagramUsername":"bigyan_njr10",
+ "facebookUsername":"NeymarJunior11s"
+},
 ]
