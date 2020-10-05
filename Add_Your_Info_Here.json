@@ -40,14 +40,6 @@
  "facebookUsername":"bigyanic"
 },
  {
- "name": "Shankar Kharel",
- "address":"Butwal",
- "skills":["Flutter","Java","Python"],
- "githubUsername":"shankarkharel",
- "instagramUsername":"shankarkharel35",
- "facebookUsername":"Shankar Kharel"
-},
- {
 "name": "Agni Pradhan",
  "address":"Pokhara",
  "skills":["Flutter","Java","Python","Linux"],
@@ -175,4 +167,13 @@
  "instagramUsername":"codekavya",
  "facebookUsername":"codekavya"
 },
+ {
+ "name": "Asmit Dhakal",
+ "address":"Pokhara",
+ "skills":["C",,"Web Developer"],
+ "githubUsername":"Veer-369",
+ "instagramUsername":"Asmit.Dhakal",
+ "facebookUsername":"codekavya"
+},
 ]
+
