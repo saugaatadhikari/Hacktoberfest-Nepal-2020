@@ -87,4 +87,12 @@
  "instagramUsername":"Sandip__Sapkota",
  "facebookUsername":"codekavya"
 },
+ {
+ "name": "Mandeep Thapa",
+ "address":"Pokhara",
+ "skills":["nothing"],
+ "githubUsername":"imandeep",
+ "instagramUsername":"mandeeped",
+ "facebookUsername":"codekavya"
+ },
 ]
