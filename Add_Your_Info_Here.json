@@ -88,14 +88,6 @@
  "facebookUsername":"codekavya"
 },
  {
- "name": "Mandeep Thapa",
- "address":"Pokhara",
- "skills":["nothing"],
- "githubUsername":"imandeep",
- "instagramUsername":"mandeeped",
- "facebookUsername":"codekavya"
- },
-   {
  "name": "Bibek Bhusal",
  "address":"Butwal",
  "skills":["Android Developer","Web Developer","Content Writer"],
@@ -143,4 +135,12 @@
  "instagramUsername":"asshisshkhatri15",
  "facebookUsername":"codekavya"
 },
+ {
+ "name": "Mandeep Thapa",
+ "address":"Pokhara",
+ "skills":["Flutter","NodeJS","Python"],
+ "githubUsername":"imandeep",
+ "instagramUsername":"mandeeped",
+ "facebookUsername":"codekavya"
+ },
 ]
