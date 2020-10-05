@@ -91,7 +91,3 @@ So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop
 > Complete pull requests in repositories listed below and get the chance to win a free unlimited ssd web host.
 
 ---
-
-# 👍 This is Awesome! How Can I Contribute?
-
-It's very easy. You don't need to be an expert in coding and programming. Here are the steps you need to follow to create your -(maybe)- EXAMPLE first pull request within few minutes.
