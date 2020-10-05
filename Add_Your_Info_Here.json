@@ -23,7 +23,7 @@
  "instagramUsername":"Parajuli.Bkrm",
  "facebookUsername":"ParajuliBkrm"
 },
-  {
+ {
  "name": "Shankar Kharel",
  "address":"Butwal",
  "skills":["Flutter","Java","Python"],
@@ -79,4 +79,12 @@
   "instagramUsername":"SaugatShrestha", 
   "facebookUsername":"codekavya"
  },
+ {
+ "name": "Sandip Sapkota",
+ "address":"Dang",
+ "skills":["Basic C"],
+ "githubUsername":"SandipSapkota9844",
+ "instagramUsername":"Sandip__Sapkota",
+ "facebookUsername":"codekavya"
+},
 ]
