@@ -119,4 +119,12 @@
  "instagramUsername":"bigyan_njr10",
  "facebookUsername":"NeymarJunior11s"
 },
+ {
+ "name": "Rojen Maharjan",
+ "address":"Kathmandu",
+ "skills":["JavaScript","Python","ReactJS", "django"],
+ "githubUsername":"rojen11",
+ "instagramUsername":"codekavya",
+ "facebookUsername":"codekavya"
+ },
 ]
