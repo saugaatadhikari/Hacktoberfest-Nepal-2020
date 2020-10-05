@@ -175,5 +175,13 @@
  "instagramUsername":"Asmit.Dhakal",
  "facebookUsername":"codekavya"
 },
+ {
+ "name": "Arjun Adhikari",
+ "address":"Pokhara",
+ "skills":["C","Java","Python"],
+ "githubUsername":"bahun1666",
+ "instagramUsername":"its_orjun",
+ "facebookUsername":"codekavya"
+},
 ]
 
