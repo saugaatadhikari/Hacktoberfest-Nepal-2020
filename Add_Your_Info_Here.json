@@ -71,7 +71,7 @@
   "instagramUsername":"SaugatShrestha", 
   "facebookUsername":"codekavya"
  },
- {
+  {
  "name": "Sandip Sapkota",
  "address":"Dang",
  "skills":["Basic C"],
@@ -79,7 +79,7 @@
  "instagramUsername":"Sandip__Sapkota",
  "facebookUsername":"codekavya"
 },
- {
+  {
  "name": "Bibek Bhusal",
  "address":"Butwal",
  "skills":["Android Developer","Web Developer","Content Writer"],
@@ -247,7 +247,13 @@
  "instagramUsername":"subaspoudel",
  "facebookUsername":"subaspoudel"
 },
-
- 
+  {
+"name": "Rabina Shrestha",
+"address": "Bhaktapur",
+"skills": ["Web development","Java", "Python","HTML","CSS"],
+"githubUsername": "rabina48",
+"instagramUsername": "rabinash",
+"facebookUsername": "rabinashrestha"
+ },
 ]
 
