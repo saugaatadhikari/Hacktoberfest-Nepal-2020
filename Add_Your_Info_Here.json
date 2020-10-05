@@ -183,5 +183,13 @@
  "instagramUsername":"its_orjun",
  "facebookUsername":"codekavya"
 },
+  {
+ "name": "Prakash Tiwari",
+ "address":"Butwal",
+ "skills":["React","Node","Express","PHP"],
+ "githubUsername":"prakash901",
+ "instagramUsername":"codekavya",
+ "facebookUsername":"prakash.tiwari.980315"
+ },
 ]
 
