@@ -271,5 +271,13 @@
  "instagramUsername":"__aaku",
  "facebookUsername":"codekavya"
  },
+{
+ "name": "Suman Pandit",
+ "address":"Pokhara",
+ "skills":["HTML5","CSS3","JS","php","Python"],
+ "githubUsername":"dev-sumanpandit",
+ "instagramUsername":"dev_sumanpandit",
+ "facebookUsername":"dev.sumanpandit"
+ },
 ]
 
