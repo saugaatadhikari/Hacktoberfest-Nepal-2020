@@ -271,6 +271,22 @@
  "instagramUsername":"__aaku",
  "facebookUsername":"codekavya"
  },
+ {
+"name": "Ramesh Sharma",
+"address": "Kathmandu",
+"skills": ["Web Developer", "Graphics Designer"],
+"githubUsername": "acosafx",
+"instagramUsername": "x_invincible_x69",
+"facebookUsername": "invincex69ktm"
+},
+  {
+ "name": "Suman Pandit",
+ "address":"Pokhara",
+ "skills":["HTML5","CSS3","JS","php","Python"],
+ "githubUsername":"dev-sumanpandit",
+ "instagramUsername":"dev_sumanpandit",
+ "facebookUsername":"dev.sumanpandit"
+ },
   {
 "name": "Nishant Sapkota",
  "address":"Damak",
