@@ -294,7 +294,15 @@
  "githubUsername":"thenishantsapkota",
  "instagramUsername":"thenishantsapkota",
  "facebookUsername":"thenishantsapkota"
- }
+ },
+  {
+"name": "Sachin Kumar Mehta",
+"address":"Harinagar-05,sunsari",
+"skills":["HTML5","C","C++","Photoshop","Lightroom","Videoediting"],
+"githubUsername":"sachin874",
+"instagramUsername":"sachin_mehta874",
+"facebookUsername": "codekavya"
+}
 ]
 
 
