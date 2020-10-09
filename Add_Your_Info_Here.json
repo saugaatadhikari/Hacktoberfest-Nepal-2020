@@ -295,6 +295,16 @@
  "instagramUsername":"thenishantsapkota",
  "facebookUsername":"thenishantsapkota"
  }
+  
+   {
+ "name": "Sandesh Thapa",
+ "address":"Pokhara",
+ "skills":["c"],
+ "githubUsername":"Tsandesh",
+ "instagramUsername":"sandesh_thapa",
+ "facebookUsername":"Sandesh Thapa Magar"
+},
+  
 ]
 
 
