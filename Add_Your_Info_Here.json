@@ -295,16 +295,30 @@
  "instagramUsername":"thenishantsapkota",
  "facebookUsername":"thenishantsapkota"
  }
-  
+  {
+"name": "Sachin Kumar Mehta",
+"address":"Harinagar-05,sunsari",
+"skills":["HTML5","C","C++","Photoshop","Lightroom","Videoediting"],
+"githubUsername":"sachin874",
+"instagramUsername":"sachin_mehta874",
+"facebookUsername": "codekavya"
+},
    {
+"name": "Dylan Hernandez Rojas",
+"address":"Poza Rica de Hidalgo",
+"skills":["C++"],
+"githubUsername":"UltimateDystrom",
+"instagramUsername":"dylanhdezrojas",
+"facebookUsername": "codekavya"
+}
+  {
  "name": "Sandesh Thapa",
  "address":"Pokhara",
- "skills":["c"],
+ "skills":["C"],
  "githubUsername":"Tsandesh",
  "instagramUsername":"sandesh_thapa",
- "facebookUsername":"Sandesh Thapa Magar"
-},
-  
+ "facebookUsername":"codekavya"
+}
 ]
 
 
