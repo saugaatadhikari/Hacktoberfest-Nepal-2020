@@ -326,6 +326,15 @@
 "githubUsername":"Bibekdhkl",
 "instagramUsername":"Bibekdhkl",
 "facebookUsername": "Bibekdhkl"
+},
+
+{
+"name": "Dipak Gautam",
+"address":"Pepsicola-Kathmandu",
+"skills":["HTML5","CSS","C","C++","Python","PHP"],
+"githubUsername":"dpakgtm07",
+"instagramUsername":"dpak.gtm",
+"facebookUsername": "dpak.gtm"
 }
 
 ]
