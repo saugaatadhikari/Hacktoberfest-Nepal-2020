@@ -294,7 +294,7 @@
  "githubUsername":"thenishantsapkota",
  "instagramUsername":"thenishantsapkota",
  "facebookUsername":"thenishantsapkota"
- }
+ },
   {
 "name": "Sachin Kumar Mehta",
 "address":"Harinagar-05,sunsari",
@@ -310,7 +310,7 @@
 "githubUsername":"UltimateDystrom",
 "instagramUsername":"dylanhdezrojas",
 "facebookUsername": "codekavya"
-}
+},
   {
  "name": "Sandesh Thapa",
  "address":"Pokhara",
@@ -318,7 +318,16 @@
  "githubUsername":"Tsandesh",
  "instagramUsername":"sandesh_thapa",
  "facebookUsername":"codekavya"
+},  
+  {
+"name": "Bibek Dhakal",
+"address":"Ratnanagar-Chitwan",
+"skills":["HTML5","CSS","C","C++"],
+"githubUsername":"Bibekdhkl",
+"instagramUsername":"Bibekdhkl",
+"facebookUsername": "Bibekdhkl"
 }
+
 ]
 
 
