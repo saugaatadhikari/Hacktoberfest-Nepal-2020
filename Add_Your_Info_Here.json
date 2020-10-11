@@ -335,8 +335,17 @@
 "githubUsername":"dpakgtm07",
 "instagramUsername":"dpak.gtm",
 "facebookUsername": "dpak.gtm"
-}
+},
 
+
+{
+  "name": "Apil Acharya",
+  "address":"Naikap-Kathmandu",
+  "skills":["HTML5","CSS","C","C++","Python","PHP"],
+  "githubUsername":"apilacharya",
+  "instagramUsername":"apil007",
+  "facebookUsername": "apil.ktm"
+  }
 ]
 
 
