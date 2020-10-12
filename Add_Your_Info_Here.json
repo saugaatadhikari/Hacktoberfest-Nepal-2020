@@ -8,6 +8,14 @@
 "facebookUsername": "saugat0"
 },
   {
+"name": "Joe Rush",
+"address": "Pokhara",
+"skills": ["Web Developer", "Graphics Designer", "Flutter Developer", "Python developer"],
+"githubUsername": "joerush18",
+"instagramUsername": "j0erush",
+"facebookUsername": "mrperfect77777"
+},
+  {
  "name":"Arjun Adhikari",
  "address":"Butwal",
  "skills":["Java","NodeJS","Kotlin"],
