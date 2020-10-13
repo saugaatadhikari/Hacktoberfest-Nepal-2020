@@ -336,8 +336,6 @@
 "instagramUsername":"dpak.gtm",
 "facebookUsername": "dpak.gtm"
 },
-
-
 {
   "name": "Apil Acharya",
   "address":"Naikap-Kathmandu",
@@ -345,7 +343,15 @@
   "githubUsername":"apilacharya",
   "instagramUsername":"apil007",
   "facebookUsername": "apil.ktm"
-  }
+  },
+    {
+  "name": "Joe Rush",
+  "address": "Pokhara",
+  "skills": ["Web Developer", "Graphics Designer", "Flutter Developer", "Python developer"],
+  "githubUsername": "joerush18",
+  "instagramUsername": "j0erush",
+  "facebookUsername": "mrperfect77777"
+},
 ]
 
 
