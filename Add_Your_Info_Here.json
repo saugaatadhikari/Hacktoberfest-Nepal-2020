@@ -352,6 +352,15 @@
   "instagramUsername": "j0erush",
   "facebookUsername": "mrperfect77777"
 },
+  
+  {
+    "name": "sloth59",
+    "address": "Chitwan Nepal",
+    "skills": ["Beginner in CTFs","Simple HTML/CSS/JS","Basics of C C++ python php java","simple linux system administration"],
+    "githubUsername": "sloth59",
+    "instagramUsername": "codekavya",
+    "facebookUsername": "codekavya"
+  },
 ]
 
 
