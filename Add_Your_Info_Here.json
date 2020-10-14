@@ -352,6 +352,14 @@
   "instagramUsername": "j0erush",
   "facebookUsername": "mrperfect77777"
 },
+  
+  {
+    "name": "sloth59",
+    "address": "Chitwan,Nepal",
+    "skills": ["beginner in CTFs","simple HTML/CSS/JS","basics of C C++ python php java","simple linux system administration"],
+    "githubUsername": "sloth59"
+    "additionalInfo": "I dont use instagram and facebook "
+  },
 ]
 
 
