@@ -355,10 +355,11 @@
   
   {
     "name": "sloth59",
-    "address": "Chitwan,Nepal",
-    "skills": ["beginner in CTFs","simple HTML/CSS/JS","basics of C C++ python php java","simple linux system administration"],
-    "githubUsername": "sloth59"
-    "additionalInfo": "I dont use instagram and facebook "
+    "address": "Chitwan Nepal",
+    "skills": ["Beginner in CTFs","Simple HTML/CSS/JS","Basics of C C++ python php java","simple linux system administration"],
+    "githubUsername": "sloth59",
+    "instagramUsername": "codekavya",
+    "facebookUsername": "codekavya"
   },
 ]
 
