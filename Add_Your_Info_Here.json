@@ -376,7 +376,14 @@
  "githubUsername":"Meghna2080",
  "instagramUsername": "meghnas_2080",
  "facebookUsername": "Meghna2080"
-}
+},
+{
+"name": "Vikas Kaushik",
+"address": "Akaltara",
+"skills": ["Python", "Html", "Kotlin"],
+"githubUsername": "vikask1",
+"facebookUsername": "Vikas Kaushik"
+},
 ]
 
 
