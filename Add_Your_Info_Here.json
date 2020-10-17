@@ -376,6 +376,14 @@
  "githubUsername":"Meghna2080",
  "instagramUsername": "meghnas_2080",
  "facebookUsername": "Meghna2080"
+},
+{
+ "name": "Ruzan Tandukar",
+ "address":"Kathmandu",
+ "skills":["Python","Django","JS","C"],
+ "githubUsername":"ruzzan",
+ "instagramUsername": "ru_z_an",
+ "facebookUsername": "ruzan.tandukar"
 }
 ]
 
