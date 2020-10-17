@@ -368,7 +368,15 @@
  "githubUsername":"prabidhi123",
  "instagramUsername": "codekavya",
  "facebookUsername": "codekavya"
-} 
+},
+{
+ "name": "Meghna Singh",
+ "address":"Chandigarh",
+ "skills":["Graphic Designing","Programming"],
+ "githubUsername":"Meghna2080",
+ "instagramUsername": "meghnas_2080",
+ "facebookUsername": "Meghna2080"
+}
 ]
 
 
