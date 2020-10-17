@@ -376,7 +376,15 @@
  "githubUsername":"Meghna2080",
  "instagramUsername": "meghnas_2080",
  "facebookUsername": "Meghna2080"
-}
+},
+  {
+"name": "Mukul Shrestha",
+"address": "Biratnagar",
+"skills": ["Web Developer", "Graphics Designer", "Frontend"],
+"githubUsername": "Mr-Ahtserhs",
+"instagramUsername": "mukul-ahtserhs",
+"facebookUsername": "mr-ahtserhs"
+},
 ]
 
 
