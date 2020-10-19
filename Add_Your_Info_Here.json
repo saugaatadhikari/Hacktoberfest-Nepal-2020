@@ -410,6 +410,14 @@
  "facebookUsername": "ruzan.tandukar"
 },
   {
+ "name": "Dinesh Bala",
+ "address":"Bhaktapur",
+ "skills":["Reactjs","Flutter","JS"],
+ "githubUsername":"dnesbala",
+ "instagramUsername": "baladnes",
+ "facebookUsername": "DNSBala"
+},
+  {
  "name": "Shrijal Shrestha",
  "address":"Biratnagar",
  "skills":["Graphic Designing","Programming"],
