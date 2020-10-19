@@ -377,6 +377,14 @@
  "instagramUsername": "meghnas_2080",
  "facebookUsername": "Meghna2080"
 },
+{
+"name": "Vikas Kaushik",
+"address": "Akaltara",
+"skills": ["Python", "Html", "Kotlin"],
+"githubUsername": "vikask1",
+"instagramUsername": "codekavya",
+"facebookUsername": "codekavya"
+},
   {
  "name": "Niruddya Samarasinghe",
  "address":"Colombo Sri Lanka",
@@ -384,7 +392,7 @@
  "githubUsername":"nirudi98",
  "instagramUsername":"niru_diii",
  "facebookUsername":"codekavya"
-},
+  }
 ]
 
 
