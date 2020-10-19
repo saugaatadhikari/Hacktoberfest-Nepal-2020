@@ -400,6 +400,14 @@
   "githubUsername": "Mr-Ahtserhs",
   "instagramUsername": "mukul-ahtserhs",
   "facebookUsername": "mr-ahtserhs"
+},
+  {
+ "name": "Ruzan Tandukar",
+ "address":"Kathmandu",
+ "skills":["Python","Django","JS","C"],
+ "githubUsername":"ruzzan",
+ "instagramUsername": "ru_z_an",
+ "facebookUsername": "ruzan.tandukar"
 }
 ]
 
