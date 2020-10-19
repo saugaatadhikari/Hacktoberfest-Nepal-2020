@@ -408,7 +408,15 @@
  "githubUsername":"ruzzan",
  "instagramUsername": "ru_z_an",
  "facebookUsername": "ruzan.tandukar"
-}
+},
+  {
+ "name": "Shrijal Shrestha",
+ "address":"Biratnagar",
+ "skills":["Graphic Designing","Programming"],
+ "githubUsername":"shrijal313",
+ "instagramUsername": "codekavya",
+ "facebookUsername": "codekavya"
+  }
 ]
 
 
