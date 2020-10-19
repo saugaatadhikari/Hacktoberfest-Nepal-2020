@@ -392,7 +392,15 @@
  "githubUsername":"nirudi98",
  "instagramUsername":"niru_diii",
  "facebookUsername":"codekavya"
-  }
+  },
+  {
+  "name": "Mukul Shrestha",
+  "address": "Biratnagar",
+  "skills": ["Web Developer", "Graphics Designer", "Frontend"],
+  "githubUsername": "Mr-Ahtserhs",
+  "instagramUsername": "mukul-ahtserhs",
+  "facebookUsername": "mr-ahtserhs"
+}
 ]
 
 
