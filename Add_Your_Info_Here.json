@@ -369,14 +369,6 @@
  "instagramUsername": "codekavya",
  "facebookUsername": "codekavya"
 },
-  {
- "name": "Niruddya Samarasinghe",
- "address":"Colombo Sri Lanka",
- "skills":["Java","Android","C#"],
- "githubUsername":"nirudi98",
- "instagramUsername":"niru_diii",
- "facebookUsername":"Niruddya Samarasinghe"
-},
 {
  "name": "Meghna Singh",
  "address":"Chandigarh",
@@ -384,7 +376,15 @@
  "githubUsername":"Meghna2080",
  "instagramUsername": "meghnas_2080",
  "facebookUsername": "Meghna2080"
-}
+},
+  {
+ "name": "Niruddya Samarasinghe",
+ "address":"Colombo Sri Lanka",
+ "skills":["Java","Android","C#"],
+ "githubUsername":"nirudi98",
+ "instagramUsername":"niru_diii",
+ "facebookUsername":"codekavya"
+},
 ]
 
 
