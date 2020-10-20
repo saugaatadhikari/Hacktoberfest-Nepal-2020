@@ -409,14 +409,14 @@
  "instagramUsername": "ru_z_an",
  "facebookUsername": "ruzan.tandukar"
 },
-  {
+{
  "name": "Shrijal Shrestha",
  "address":"Biratnagar",
  "skills":["Graphic Designing","Programming"],
  "githubUsername":"shrijal313",
  "instagramUsername": "codekavya",
  "facebookUsername": "codekavya"
-  }
+  },
   {
  "name": "Uvindu Harshana",
  "address":"Sri Lanka",
@@ -425,6 +425,14 @@
  "instagramUsername": "codekavya",
  "facebookUsername": "codekavya"
 }
+  {
+ "name": "Dinesh Bala",
+ "address":"Bhaktapur",
+ "skills":["Reactjs","Flutter","JS"],
+ "githubUsername":"dnesbala",
+ "instagramUsername": "baladnes",
+ "facebookUsername": "DNSBala"
+},
 ]
 
 
