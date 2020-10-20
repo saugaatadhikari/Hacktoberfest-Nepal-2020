@@ -409,23 +409,38 @@
  "instagramUsername": "ru_z_an",
  "facebookUsername": "ruzan.tandukar"
 },
-  {
+{
  "name": "Shrijal Shrestha",
  "address":"Biratnagar",
  "skills":["Graphic Designing","Programming"],
  "githubUsername":"shrijal313",
  "instagramUsername": "codekavya",
  "facebookUsername": "codekavya"
-  }
-
-{
+  },
+  {
+ "name": "Uvindu Harshana",
+ "address":"Sri Lanka",
+ "skills":["cpp","java"],
+ "githubUsername":"d-folt",
+ "instagramUsername": "codekavya",
+ "facebookUsername": "codekavya"
+  },
+  {
+ "name": "Dinesh Bala",
+ "address":"Bhaktapur",
+ "skills":["Reactjs","Flutter","JS"],
+ "githubUsername":"dnesbala",
+ "instagramUsername": "baladnes",
+ "facebookUsername": "DNSBala"
+},
+  {
 "name": "Veshraj Ghimire",
 "address": "Kathmandu",
 "skills": ["Basic Graphics Designing","Python","C"],
 "githubUsername": "V35HR4J",
 "instagramUsername": "vessrazz",
 "facebookUsername": "veshrajghimir"
-}
+ },
 ]
 
 
