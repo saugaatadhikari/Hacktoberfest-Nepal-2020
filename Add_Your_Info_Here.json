@@ -432,7 +432,15 @@
  "githubUsername":"dnesbala",
  "instagramUsername": "baladnes",
  "facebookUsername": "DNSBala"
-}
+},
+  {
+"name": "Veshraj Ghimire",
+"address": "Kathmandu",
+"skills": ["Basic Graphics Designing","Python","C"],
+"githubUsername": "V35HR4J",
+"instagramUsername": "vessrazz",
+"facebookUsername": "veshrajghimir"
+ },
 ]
 
 
