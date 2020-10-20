@@ -409,6 +409,13 @@
  "instagramUsername": "ru_z_an",
  "facebookUsername": "ruzan.tandukar"
 },
+   {
+"name": "Agni Pradhan",
+ "address":"Pokhara",
+ "skills":["Flutter","Java","Python","Linux"],
+ "githubUsername":"agniprdn",
+ "facebookUsername":"agni.pradhan.50"
+ },
   {
  "name": "Shrijal Shrestha",
  "address":"Biratnagar",
@@ -417,6 +424,7 @@
  "instagramUsername": "codekavya",
  "facebookUsername": "codekavya"
   }
+  
 ]
 
 
