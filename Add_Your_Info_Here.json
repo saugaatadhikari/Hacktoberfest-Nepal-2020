@@ -417,7 +417,15 @@
  "instagramUsername": "codekavya",
  "facebookUsername": "codekavya"
   },
-    {
+  {
+ "name": "Uvindu Harshana",
+ "address":"Sri Lanka",
+ "skills":["cpp","java"],
+ "githubUsername":"d-folt",
+ "instagramUsername": "codekavya",
+ "facebookUsername": "codekavya"
+}
+  {
  "name": "Dinesh Bala",
  "address":"Bhaktapur",
  "skills":["Reactjs","Flutter","JS"],
