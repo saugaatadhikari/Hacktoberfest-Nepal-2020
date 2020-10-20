@@ -440,15 +440,23 @@
 "githubUsername": "V35HR4J",
 "instagramUsername": "vessrazz",
 "facebookUsername": "veshrajghimir"
+ }, 
+  {
+ "name": "Agni Pradhan",
+ "address":"Pokhara",
+ "skills":["Flutter","Java","Python","Linux"],
+ "githubUsername":"agniprdn",
+ "instagramUsername": "codekavya",
+ "facebookUsername":"agni.pradhan.50"
  },
-   {
+  {
 "name": "Taruna Saini",
 "address": "India",
 "skills": ["Web designing"],
 "githubUsername": "Taruna06",
 "instagramUsername": "taruna0610",
-"facebookUsername": "Taruna Saini"
- },
+"facebookUsername": "codekavya"
+ }
 ]
 
 
