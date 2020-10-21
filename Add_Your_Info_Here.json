@@ -457,11 +457,21 @@
 "instagramUsername": "taruna0610",
 "facebookUsername": "codekavya"
  },
+   {
+"name": "Sewak Gautam",
+"address": "Nepal",
+"skills": ["Web designing","Python","Designing"],
+"githubUsername": "sewakgtm",
+"instagramUsername": "sewakgtm",
+"facebookUsername": "sewakgtm"
+ },
  {
 "name": "Sujan Parajuli",
 "address": "Nepal",
 "skills": ["Web designer" , "Developer" , "python" , "c++"],
 "githubUsername": "sujanp100"
+"instagramUsername": "codekavya",
+"facebookUsername": "codekavya"
  }
 ]
 
