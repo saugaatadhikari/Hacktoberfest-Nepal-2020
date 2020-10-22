@@ -469,7 +469,7 @@
 "name": "Sujan Parajuli",
 "address": "Nepal",
 "skills": ["Web designer" , "Developer" , "python" , "c++"],
-"githubUsername": "sujanp100"
+"githubUsername": "sujanp100",
 "instagramUsername": "codekavya",
 "facebookUsername": "codekavya"
  },
@@ -477,7 +477,8 @@
 "name": "Bibek Bhattarai",
 "address": "Nepal",
 "skills": ["Graphics Designer" , "Web Developer" , "PHP" , "Python"],
-"githubUsername": "b1b3k"
+"githubUsername": "b1b3k",
+"instagramUsername": "codekavya",
 "facebookUsername": "kebibmi"
  }
 ]
