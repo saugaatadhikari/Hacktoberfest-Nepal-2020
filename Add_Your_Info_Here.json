@@ -461,7 +461,7 @@
 "name": "Sewak Gautam",
 "address": "Nepal",
 "skills": ["Web designing","Python","Designing"],
-"githubUsername": "sewakgtm",
+"githubUsername": "sewakgautam",
 "instagramUsername": "sewakgtm",
 "facebookUsername": "sewakgtm"
  },
@@ -488,14 +488,14 @@
 "githubUsername": "b1b3k",
 "facebookUsername": "kebibmi",
 "instagramUsername": "codekavya"
- }
+ },
 "name": "Avian Chhetri",
 "address": "Nepal",
 "skills": ["Web designer" , "Developer" , "python" , "c++"],
 "githubUsername": "AvianQwe",
 "instagramUsername": "AvianQwe",
 "facebookUsername": "AvianQwe"
- }
+ },
   {
 "name": "Ze Falcon",
 "address": "Pokhara",
@@ -504,6 +504,14 @@
 "twitterUsername": "@ZeFalcon1",
 "instagramUsername": "codekavya",
 "facebookUsername": "codekavya"
+},
+{
+"name": "Nawal Kattel",
+"address": "Nepal",
+"skills": ["Web developing","Python","AutoCAD","Java"],
+"githubUsername": "NawalKattel",
+"instagramUsername": "nawal_kattel_official",
+"facebookUsername": "nawalkatel"
 }
 ]
 
