@@ -473,13 +473,21 @@
 "instagramUsername": "codekavya",
 "facebookUsername": "codekavya"
  },
- {
+{
+"name": "Ashim",
+"address": "Nepal",
+"skills": ["Web designer" , "Developer" , "python", "php", "Sql"],
+"githubUsername": "ashim058"
+"instagramUsername": "codekavya",
+"facebookUsername": "codekavya"
+ },
+  {
 "name": "Bibek Bhattarai",
 "address": "Nepal",
 "skills": ["Graphics Designer" , "Web Developer" , "PHP" , "Python"],
 "githubUsername": "b1b3k",
-"instagramUsername": "codekavya",
-"facebookUsername": "kebibmi"
+"facebookUsername": "kebibmi",
+"instagramUsername": "codekavya"
  }
 ]
 
