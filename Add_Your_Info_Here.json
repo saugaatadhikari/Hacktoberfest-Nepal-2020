@@ -477,7 +477,7 @@
 "name": "Ashim",
 "address": "Nepal",
 "skills": ["Web designer" , "Developer" , "python", "php", "Sql"],
-"githubUsername": "ashim058"
+"githubUsername": "ashim058",
 "instagramUsername": "codekavya",
 "facebookUsername": "codekavya"
  },
@@ -489,6 +489,7 @@
 "facebookUsername": "kebibmi",
 "instagramUsername": "codekavya"
  },
+  {
 "name": "Avian Chhetri",
 "address": "Nepal",
 "skills": ["Web designer" , "Developer" , "python" , "c++"],
