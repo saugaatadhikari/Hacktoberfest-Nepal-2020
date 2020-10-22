@@ -461,7 +461,7 @@
 "name": "Sewak Gautam",
 "address": "Nepal",
 "skills": ["Web designing","Python","Designing"],
-"githubUsername": "sewakgtm",
+"githubUsername": "sewakgautam",
 "instagramUsername": "sewakgtm",
 "facebookUsername": "sewakgtm"
  },
@@ -472,6 +472,14 @@
 "githubUsername": "sujanp100"
 "instagramUsername": "codekavya",
 "facebookUsername": "codekavya"
+ },
+  {
+"name": "Nawal Kattel",
+"address": "Nepal",
+"skills": ["Web developing","Python","AutoCAD","Java"],
+"githubUsername": "NawalKattel",
+"instagramUsername": "nawal_kattel_official",
+"facebookUsername": "nawalkatel"
  }
 ]
 
