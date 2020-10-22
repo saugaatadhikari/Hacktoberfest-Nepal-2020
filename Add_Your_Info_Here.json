@@ -496,6 +496,15 @@
 "instagramUsername": "AvianQwe",
 "facebookUsername": "AvianQwe"
  }
+  {
+"name": "Ze Falcon",
+"address": "Pokhara",
+"skills": ["Web designer" , "Developer" , "python" , "c++"],
+"githubUsername": "Ze-Falcon",
+"twitterUsername": "@ZeFalcon1",
+"instagramUsername": "codekavya",
+"facebookUsername": "codekavya"
+}
 ]
 
 
