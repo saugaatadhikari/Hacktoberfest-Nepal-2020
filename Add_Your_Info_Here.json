@@ -469,18 +469,50 @@
 "name": "Sujan Parajuli",
 "address": "Nepal",
 "skills": ["Web designer" , "Developer" , "python" , "c++"],
-"githubUsername": "sujanp100"
+"githubUsername": "sujanp100",
+"instagramUsername": "codekavya",
+"facebookUsername": "codekavya"
+ },
+{
+"name": "Ashim",
+"address": "Nepal",
+"skills": ["Web designer" , "Developer" , "python", "php", "Sql"],
+"githubUsername": "ashim058"
 "instagramUsername": "codekavya",
 "facebookUsername": "codekavya"
  },
   {
+"name": "Bibek Bhattarai",
+"address": "Nepal",
+"skills": ["Graphics Designer" , "Web Developer" , "PHP" , "Python"],
+"githubUsername": "b1b3k",
+"facebookUsername": "kebibmi",
+"instagramUsername": "codekavya"
+ },
+"name": "Avian Chhetri",
+"address": "Nepal",
+"skills": ["Web designer" , "Developer" , "python" , "c++"],
+"githubUsername": "AvianQwe",
+"instagramUsername": "AvianQwe",
+"facebookUsername": "AvianQwe"
+ },
+  {
+"name": "Ze Falcon",
+"address": "Pokhara",
+"skills": ["Web designer" , "Developer" , "python" , "c++"],
+"githubUsername": "Ze-Falcon",
+"twitterUsername": "@ZeFalcon1",
+"instagramUsername": "codekavya",
+"facebookUsername": "codekavya"
+},
+{
 "name": "Nawal Kattel",
 "address": "Nepal",
 "skills": ["Web developing","Python","AutoCAD","Java"],
 "githubUsername": "NawalKattel",
 "instagramUsername": "nawal_kattel_official",
 "facebookUsername": "nawalkatel"
- }
+}
 ]
 
 
