@@ -513,7 +513,15 @@
 "githubUsername": "NawalKattel",
 "instagramUsername": "nawal_kattel_official",
 "facebookUsername": "nawalkatel"
-}
+},
+{
+  "name":"Astik Dahal",
+  "address":"Kathmandu",
+  "skills":["Python","Flask","UI/UX", "HTML/CSS"],
+  "githubUsername":"astik-dahal",
+  "instagramUsername":"not.astikdahal",
+  "facebookUsername":"astik.dahal.ad"
+ }
 ]
 
 
