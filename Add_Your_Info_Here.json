@@ -531,6 +531,14 @@
 "facebookUsername": "shubham"
 },
   {
+  "name":"Dipesh Chhetri",
+  "address":"Pokhara",
+  "skills":["C","C++", "HTML/CSS"],
+  "githubUsername":"dipeshchhetri1",
+  "instagramUsername":"dipeshkumarchhetri",
+  "facebookUsername":"dipeshkumar.chhetri.10"
+ },
+  {
 "name": "Sandupama",
 "address": "Sri lanka",
 "skills": ["Html", "web designer", "java programing"],
