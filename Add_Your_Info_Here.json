@@ -554,19 +554,20 @@
 "instagramUsername":"Its_rajiv_Aryal",
 "facebookUsername": "codekavya"
 },
-  {
-    "name": "Prajwal Chaudhary",
-    "address": "Dhangadhi",
-    "skills": ["Web Developer"],
-    "githubUsername": "prajwalccc13",
-    "instagramUsername": "prajwalccc13_",
-    "facebookUsername": "prajwalccc13"
+ {
+"name": "Prajwal Chaudhary",
+"address": "Dhangadhi",
+"skills": ["Web Developer"],
+"githubUsername": "prajwalccc13",
+"instagramUsername": "prajwalccc13_",
+"facebookUsername": "prajwalccc13"
   },
 {
 "name": "Harsh Kaushik",
 "address": "Bilaspur",
 "skills": ["Html and javascript", "Graphics Designer", "Kotlin Developer"],
 "githubUsername": "harshk001",
+"instagramUsername":"codekavya",
 "facebookUsername": "harshk"
 }
 ]
