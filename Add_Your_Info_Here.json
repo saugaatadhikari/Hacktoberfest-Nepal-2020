@@ -570,6 +570,15 @@
 "instagramUsername":"codekavya",
 "facebookUsername": "harshk"
 }
+  
+ {
+"name": "Ruhee Jain",
+"address": "Delhi",
+"skills": ["Html CSS and javascript", "ML"],
+"githubUsername": "Ruheej1",
+"instagramUsername":"Ruheej1",
+"facebookUsername": "RuheeJain"
+}
 ]
 
 
