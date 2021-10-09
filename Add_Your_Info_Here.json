@@ -578,6 +578,12 @@
 "githubUsername": "Ruheej1",
 "instagramUsername":"Ruheej1",
 "facebookUsername": "RuheeJain"
+},
+  {
+"name": "Suman Sharma",
+"address": "Pokhara",
+"skills": ["flutter", "GD"],
+"githubUsername": "CrackerSuman",
 }
 ]
 
