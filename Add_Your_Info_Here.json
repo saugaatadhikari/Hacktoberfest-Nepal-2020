@@ -47,6 +47,14 @@
  "instagramUsername":"shankarkharel35",
  "facebookUsername":"Shankar Kharel"
 },
+  
+   {
+ "name": "Md Zia-ul Haq",
+ "address":"Kanxibazar",
+ "skills":["Python","Java","Cpp"],
+ "githubUsername":"Md Ziaul",
+ "facebookUsername":"Md Jiyaul"
+},
  {
 "name": "Agni Pradhan",
  "address":"Pokhara",
