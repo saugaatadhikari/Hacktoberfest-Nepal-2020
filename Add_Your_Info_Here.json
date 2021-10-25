@@ -592,7 +592,13 @@
 "address": "Pokhara",
 "skills": ["flutter", "GD"],
 "githubUsername": "CrackerSuman",
-}
-]
-
-
+},
+ {
+ "name": "mangaldada",
+ "address":"Pokhara",
+ "skills":["HTML5","CSS3","JS","php","Python"],
+ "githubUsername":"mangaldada",
+ "instagramUsername":"mangaldada",
+ "facebookUsername":"mangaldada"
+ }
+  ]
