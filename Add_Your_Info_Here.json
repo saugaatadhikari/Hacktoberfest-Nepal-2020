@@ -602,6 +602,14 @@
  "facebookUsername":"mangaldada"
  },
   {
+"name": "Suman",
+"address": "Pokhara",
+"skills": ["Html", "CSS", "javascript", "php", "python"],
+"githubUsername": "dev_sumanpandit",
+"instagramUsername":"dev_sumanpandit",
+"facebookUsername": "dev.sumanpandit"
+},
+{
  "name": "Suman pondit",
  "address":"Pokhara",
  "skills":["HTML5","CSS3","JS","php","Python"],
@@ -609,4 +617,5 @@
  "instagramUsername":"div-sumanpandit",
  "facebookUsername":"div-sumanpandit"
  },
+
   ]
